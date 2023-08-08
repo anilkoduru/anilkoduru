@@ -27,6 +27,14 @@
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
 
 
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=anilkoduru&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkoduru&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
 <!--
 **anilkoduru/anilkoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
