@@ -46,13 +46,13 @@
  
 <p align="center">
   <a href="https://github.com/anilkoduru">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkoduru&theme=react&border=ffffff&background=0D1117" alt="Anil's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkoduru&theme=react&border=ffffff&background=0D1117" height="160px" alt="Anil's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anilkoduru">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilkoduru&theme=react" alt="Anil's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilkoduru&theme=react" height="160px" alt="Anil's GitHub Contribution"/>
   </a>
 </p>
 
