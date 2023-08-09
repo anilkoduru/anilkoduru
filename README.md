@@ -16,8 +16,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: anilkoduru.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/anilkoduru/anilkoduru/issues)
 
 </p>
 
@@ -26,14 +26,26 @@
 * I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
 
+ # ⚙️GitHub Analytics
+ 
+<p align="center">
+  <a href="https://github.com/anilkoduru">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkoduru&theme=react&border=ffffff&background=0D1117" alt="Anil's GitHub streak"/>
+  </a>
+</p>
 
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=anilkoduru&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkoduru&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anilkoduru">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilkoduru&theme=react" alt="Anil's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/anilkoduru"><img alt="Anil's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anilkoduru&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/anilkoduru"><img alt="Anil's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anilkoduru&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px width="49.5%"/></a>
+  <br/>
+</a>
+
 
 <!--
 **anilkoduru/anilkoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
