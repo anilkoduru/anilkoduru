@@ -42,6 +42,13 @@
 
 <br/>
 
+***
+**♨️ &nbsp;DSA Analytics**
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/Anil127?site=us?theme=dark&font=Noto%20Sans&ext=contest" 
+         alt="Leetcode stats" height="350"/></p>
+***
+
  # ⚙️GitHub Analytics
  
 <p align="center">
