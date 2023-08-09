@@ -12,19 +12,12 @@
 ***
 **👨‍💻 &nbsp;About Me**
 <p>
- <img align="right" width="350" src="/assests/coding.gif" alt="Coding gif" />
-  
+<img align="right" width="350" height="200" src="/assests/coding.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: anilkoduru.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/anilkoduru/anilkoduru/issues)
-
 </p>
-
-* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
 
 ***
 **⚒️ &nbsp;Tech Stack**
@@ -68,10 +61,6 @@
   <br/>
 </a>
 </p>
-
-***
-😄 Pronouns: ...
-⚡ Fun fact: ...
 
 <!--
 **anilkoduru/anilkoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
