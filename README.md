@@ -11,13 +11,15 @@
 <!-- About Section -->
 ***
 **👨‍💻 &nbsp;About Me**
+<img align="right" width="350" height="170" src="/assests/coding.gif" alt="Coding gif" />
+
 <p>
-<img align="right" width="350" height="225" src="/assests/coding.gif" alt="Coding gif" />
- 🎓 &emsp; I am currently pursuing b.tech at IIIT Dharwad in computer science<br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to write code and learn new features<br/><br/>
- 📧 &emsp; Reach me anytime: [Click Here](anilkoduru27@gmail.com)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/anilkoduru/anilkoduru/issues)
+         
+  🎓 &emsp; I am currently pursuing b.tech at IIIT Dharwad in computer science<br/>
+  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+  ❤️ &emsp; Love to write code and learn new features<br/>
+  📧 &emsp; Reach me anytime: anilkoduru27@gmail.com<br/>
+  💬 &emsp; Ask me about anything [here](https://github.com/anilkoduru/anilkoduru/issues)
 </p>
 
 ***
@@ -37,7 +39,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br/>
 
 ***
