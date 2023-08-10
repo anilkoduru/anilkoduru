@@ -11,7 +11,7 @@
 <!-- About Section -->
 ***
 **👨‍💻 &nbsp;About Me**
-<img align="right" width="350" height="160" src="/assests/coding.gif" alt="Coding gif" />
+<img align="right" width="300" height="160" src="/assests/coding.gif" alt="Coding gif" />
 
 <p>
          
