@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/anil-koduru-17aa13214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://leetcode.com/Anil127/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
 <a href="mailto:anilkoduru27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://drive.google.com/file/d/1pSEsqmre-5SbxXvsC7qT8g_1-3-Z-9os/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge" alt="GitHub"> </a>
+<a href="https://drive.google.com/file/d/1pFnRy9KsN6T3UgRgA4IZi9op2ZlZmHYP/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge" alt="GitHub"> </a>
 </p>
 
 <!-- About Section -->
